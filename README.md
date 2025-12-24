@@ -39,4 +39,5 @@ INT ●●○○○○○○○○
 
 CHA ●○○○○○○○○○
 
-NOTE: while str and int are common abbreviations for the stats, remember that those are reserved keywords in Python and should not be used as variable names.
+> [!WARNING]
+> While str and int are common abbreviations for the stats, remember that those are reserved keywords in Python and should not be used as variable names.
